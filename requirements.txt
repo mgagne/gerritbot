@@ -9,4 +9,4 @@ jaraco.itertools<1.6
 jaraco.collections<1.2
 irc
 pyyaml
-python-daemon
+python-daemon>=2.0.4,<2.1.0
