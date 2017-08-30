@@ -1,7 +1,7 @@
 .tox
 AUTHORS
 ChangeLog
-*.egg
+*.egg*
 *egg-info
 dist/*
 build/*
